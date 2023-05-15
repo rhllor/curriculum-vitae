@@ -64,6 +64,7 @@ content:
           <mark>Java</mark> <mark>Kotlin</mark> <mark>Azure</mark> <mark>Spring</mark> <mark>Quarkus</mark> <mark>DAPR</mark> <mark>Azure</mark> <mark>Microservices Architecture</mark> <mark>JS/TS</mark> <mark>React</mark>
         description: | # this will include new lines to allow paragraphs
           .
+
       - layout: left
         title: Errevi System Srl
         link: https://errevi.com/
@@ -73,7 +74,8 @@ content:
         quote: >
           <mark>C#</mark> <mark>.NET Framework</mark> <mark>.NET</mark> <mark>ASP</mark> <mark>Gitlab</mark> <mark>JS/TS</mark> <mark>AngularJS</mark>
         description: | # this will include new lines to allow paragraphs
-          .
+          Mi occupo principalmente del mantenimento e sviluppo del software EDM per la gestione dei documenti di ingegneria. Insieme a tutto il mio gruppo di lavoro abbiamo convertito il Framework di sviluppo interno da un motore in ASP a un ambiente che utilizza AngularJS e dei servizi REST in .NET.
+
       - layout: left
         title: Seven IT Srl
         link: https://www.ilpolodigitale.com/
@@ -83,7 +85,8 @@ content:
         quote: >
           <mark>C#</mark> <mark>.NET Framework</mark> <mark>MsSql</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>Joomla</mark>
         description: | # this will include new lines to allow paragraphs
-          .
+          Mi sono occupato dello sviluppo di piccoli software, siti web, e integrazioni con Sharepoint per i clienti dell'azienda.
+
       - layout: left
         title: Sinfo One SpA
         link: https://www.sinfo-one.com/
@@ -93,7 +96,7 @@ content:
         quote: >
           <mark>Java</mark> <mark>C++</mark> <mark>Oracle</mark>
         description: | # this will include new lines to allow paragraphs
-          .
+          Mi sono occupato di personalizzazioni, integrazioni con software di terze parti, implementazioni e reingegnerizzazione di processi aziendali all'interno della piattaforma ERP Oracle JDE.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,7 +106,7 @@ content:
         caption: 1999 - 2004
         sub_title: Diploma on economics and software develop
         description: | # this will include new lines to allow paragraphs
-          .
+          I archievied the Diploma on economics and software with the result of 100/100. The focus of study is on Java Development. 
 
   - title: A Little More About Me
     layout: list # Type of content section (list/text)
