@@ -115,25 +115,24 @@ content:
         caption: 1999 - Present
         sub_title: Bad Player and Awesome Bad Coach of senior team
         quote: >
-          .
+          I love this Game
         description: | # this will include new lines to allow paragraphs
-          .
+          I started to play Basketball when i was 14. I'm not a skilled player but i continue to play with my friend in amateur category. We have create own team and in the last three year i play as Head Coach.
       
       - layout: left
         title: Role Playing 
         sub_title: Lazy DM and angry barbarian gnome
         quote: >
-          .
+          I don't remember when i started playing but i remember all the enemies that fell under my axe. 
         description: | # this will include new lines to allow paragraphs
-          .
+          I'm a boardgame and role's player addicted. I don't remember when i start to play but i don't stop it. 
+          From 2002 to 2009 i work on play-by-chat role game base on Marvel Superhero comics. In this game multiple players can play in different multiple location in the same moment to generate a story that evolving with their action on game.  
 
       - layout: left
         title: Volunteering
         sub_title: Healthcare 
-        quote: >
-          .
         description: | # this will include new lines to allow paragraphs
-          .
+          I work as a Ambassador for multiple italian non-profit organisation(AVIS, AIDO, ADMO). My focus is on blood and organ donation projects where i explain our problem on italian Healthcare system. 
 
 # Footer
 footer_show_references: false
