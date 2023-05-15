@@ -108,9 +108,32 @@ content:
           .
 
   - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      .
+    layout: list # Type of content section (list/text)
+    content: 
+      - layout: left
+        title: Basketball 
+        caption: 1999 - Present
+        sub_title: Bad Player and Awesome Bad Coach of senior team
+        quote: >
+          .
+        description: | # this will include new lines to allow paragraphs
+          .
+      
+      - layout: left
+        title: Role Playing 
+        sub_title: Lazy DM and angry barbarian gnome
+        quote: >
+          .
+        description: | # this will include new lines to allow paragraphs
+          .
+
+      - layout: left
+        title: Volunteering
+        sub_title: Healthcare 
+        quote: >
+          .
+        description: | # this will include new lines to allow paragraphs
+          .
 
 # Footer
 footer_show_references: false
