@@ -48,7 +48,8 @@ instagram_username: rhllor86
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  .
+  I'm a software developer since when i was 12, is a lot of times but i continue to improve my skill to be a better devloper. Thousands hour of debug, houndreds of dead and new technologies sometime they made me a little bit frustrated but i continue to like this Job. 
+  My Dog help me to fix my code, the cat help me to improve my test. On the job i love agile methodologies and continue dialogue with team. When i'm not on the job i like mountain trekking, play basketball, role play and videogames.
 
 content:
   - title: Experience # Title for the section
@@ -61,7 +62,7 @@ content:
         sub_title: Software Engineer / Architect
         caption: Sept 2021 - Present
         quote: >
-          <mark>Java</mark> <mark>Kotlin</mark> <mark>Azure</mark> <mark>Spring</mark> <mark>Quarkus</mark> <mark>DAPR</mark> <mark>Azure</mark> <mark>Microservices Architecture</mark> <mark>JS/TS</mark> <mark>React</mark>
+          <mark>Java</mark> <mark>Kotlin</mark> <mark>Azure</mark> <mark>Spring</mark> <mark>Quarkus</mark> <mark>DAPR</mark> <mark>Azure</mark> <mark>Microservices Architecture</mark> <mark>JS/TS</mark> <mark>React</mark> <mark>TDD</mark> <mark>DDD</mark> <mark>Scrum</mark>
         description: | # this will include new lines to allow paragraphs
           As Software Engineer i work on implements and maintenance of core service of Team System's Digital Platoform. The scope of my team is implements and maintenance authorization flow, shared registry and metering of usage of commercial package. 
           As Software Architect i work on refactoring of Metering flow with focus on resource consuming. 
@@ -74,7 +75,7 @@ content:
         sub_title: Software Engineer
         caption: Mar 2013 - Aug 2021
         quote: >
-          <mark>C#</mark> <mark>.NET Framework</mark> <mark>.NET</mark> <mark>ASP</mark> <mark>Gitlab</mark> <mark>JS/TS</mark> <mark>AngularJS</mark>
+          <mark>C#</mark> <mark>.NET Framework</mark> <mark>.NET</mark> <mark>ASP</mark> <mark>Gitlab</mark> <mark>JS/TS</mark> <mark>AngularJS</mark> <mark>TDD</mark>
         description: | # this will include new lines to allow paragraphs
           As Software Engineer i worked on maintenance of internal tools that we use to implements products of company. In the 2016 i started the refactory of tools from the old baseline based on ASP and migrate to a new infrastructure based on AngularJS for the client interface and some rest service and windows service for the backend. 
 
