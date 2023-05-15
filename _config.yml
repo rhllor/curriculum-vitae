@@ -63,7 +63,9 @@ content:
         quote: >
           <mark>Java</mark> <mark>Kotlin</mark> <mark>Azure</mark> <mark>Spring</mark> <mark>Quarkus</mark> <mark>DAPR</mark> <mark>Azure</mark> <mark>Microservices Architecture</mark> <mark>JS/TS</mark> <mark>React</mark>
         description: | # this will include new lines to allow paragraphs
-          .
+          As Software Engineer i work on implements and maintenance of core service of Team System's Digital Platoform. The scope of my team is implements and maintenance authorization flow, shared registry and metering of usage of commercial package. 
+          As Software Architect i work on refactoring of Metering flow with focus on resource consuming. 
+          In this company i started to work with international team as teach leader with agile methodologies in a flat company.
 
       - layout: left
         title: Errevi System Srl
@@ -74,18 +76,18 @@ content:
         quote: >
           <mark>C#</mark> <mark>.NET Framework</mark> <mark>.NET</mark> <mark>ASP</mark> <mark>Gitlab</mark> <mark>JS/TS</mark> <mark>AngularJS</mark>
         description: | # this will include new lines to allow paragraphs
-          Mi occupo principalmente del mantenimento e sviluppo del software EDM per la gestione dei documenti di ingegneria. Insieme a tutto il mio gruppo di lavoro abbiamo convertito il Framework di sviluppo interno da un motore in ASP a un ambiente che utilizza AngularJS e dei servizi REST in .NET.
+          As Software Engineer i worked on maintenance of internal tools that we use to implements products of company. In the 2016 i started the refactory of tools from the old baseline based on ASP and migrate to a new infrastructure based on AngularJS for the client interface and some rest service and windows service for the backend. 
 
       - layout: left
         title: Seven IT Srl
         link: https://www.ilpolodigitale.com/
         link_text: ilpolodigitale.com
-        sub_title: Software Engineer
+        sub_title: Software Developer
         caption: July 2012 - Feb 2013
         quote: >
           <mark>C#</mark> <mark>.NET Framework</mark> <mark>MsSql</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>Joomla</mark>
         description: | # this will include new lines to allow paragraphs
-          Mi sono occupato dello sviluppo di piccoli software, siti web, e integrazioni con Sharepoint per i clienti dell'azienda.
+          As software developer i worked implement of Website and litte software application for rental car process.
 
       - layout: left
         title: Sinfo One SpA
@@ -96,7 +98,7 @@ content:
         quote: >
           <mark>Java</mark> <mark>C++</mark> <mark>Oracle</mark>
         description: | # this will include new lines to allow paragraphs
-          Mi sono occupato di personalizzazioni, integrazioni con software di terze parti, implementazioni e reingegnerizzazione di processi aziendali all'interno della piattaforma ERP Oracle JDE.
+          As Analyst i worked on with different client. My focus was on implementation, refactoring and integration of manufacturing process with the Oracle's ERP platform E1.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
