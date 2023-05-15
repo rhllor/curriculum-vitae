@@ -60,6 +60,8 @@ content:
         link_text: mondora.com
         sub_title: Software Engineer / Architect
         caption: Sept 2021 - Present
+        quote: >
+          <mark>Java</mark> <mark>Kotlin</mark> <mark>Azure</mark> <mark>Spring</mark> <mark>Quarkus</mark> <mark>DAPR</mark> <mark>Azure</mark> <mark>Microservices Architecture</mark> <mark>JS/TS</mark> <mark>React</mark>
         description: | # this will include new lines to allow paragraphs
           .
       - layout: left
@@ -68,6 +70,8 @@ content:
         link_text: errevi.com
         sub_title: Software Engineer
         caption: Mar 2013 - Aug 2021
+        quote: >
+          <mark>C#</mark> <mark>.NET Framework</mark> <mark>.NET</mark> <mark>ASP</mark> <mark>Gitlab</mark> <mark>JS/TS</mark> <mark>AngularJS</mark>
         description: | # this will include new lines to allow paragraphs
           .
       - layout: left
@@ -76,6 +80,8 @@ content:
         link_text: ilpolodigitale.com
         sub_title: Software Engineer
         caption: July 2012 - Feb 2013
+        quote: >
+          <mark>C#</mark> <mark>.NET Framework</mark> <mark>MsSql</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>Joomla</mark>
         description: | # this will include new lines to allow paragraphs
           .
       - layout: left
@@ -84,6 +90,8 @@ content:
         link_text: sinfo-one.com
         sub_title: Analyst
         caption: Jan 2006 - June 2012
+        quote: >
+          <mark>Java</mark> <mark>C++</mark> <mark>Oracle</mark>
         description: | # this will include new lines to allow paragraphs
           .
 
