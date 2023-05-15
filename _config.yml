@@ -48,8 +48,10 @@ instagram_username: rhllor86
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a software developer since when i was 12, is a lot of times but i continue to improve my skill to be a better devloper. Thousands hour of debug, houndreds of dead and new technologies sometime they made me a little bit frustrated but i continue to like this Job. 
-  My Dog help me to fix my code, the cat help me to improve my test. On the job i love agile methodologies and continue dialogue with team. When i'm not on the job i like mountain trekking, play basketball, role play and videogames.
+  I've been a software developer for ages now: more or less since I was 12. It's quite a long time, isn't it? Yet I feel the need to keep improving my skills to be an even better developer.
+  After thousands hours of debug and hundreds of dead and new technologies I can feel a little frustrated; but I love this job and I like to turn frustration into determination to solve any problem of any kind.
+  Also, I have two supporters that help me through different stages: my dog helps me to fix code and my cat, on the other hand, help to improve tests.I love agile methodologies and constant dialogue with teams, to maximise the potential of any individual and to encourage ideas generation.
+  Outside of work, I like mountain trekking, play basketball, role play and videogames.
 
 content:
   - title: Experience # Title for the section
@@ -64,9 +66,10 @@ content:
         quote: >
           <mark>Java</mark> <mark>Kotlin</mark> <mark>Azure</mark> <mark>Spring</mark> <mark>Quarkus</mark> <mark>DAPR</mark> <mark>Azure</mark> <mark>Microservices Architecture</mark> <mark>JS/TS</mark> <mark>React</mark> <mark>TDD</mark> <mark>DDD</mark> <mark>Scrum</mark>
         description: | # this will include new lines to allow paragraphs
-          As Software Engineer i work on implements and maintenance of core service of Team System's Digital Platoform. The scope of my team is implements and maintenance authorization flow, shared registry and metering of usage of commercial package. 
-          As Software Architect i work on refactoring of Metering flow with focus on resource consuming. 
-          In this company i started to work with international team as teach leader with agile methodologies in a flat company.
+          As a Software Engineer, I work on implementing and maintaining the core service of Team Systems Digital Platform.
+          The scope of my team is to implement and maintain authorization flow, shared registry and metering of usage of commercial package.
+          As a Software Architect I'm working on refactoring of metering flow with focus on resource consuming. 
+          In this Company, which is a flat one, I started working with International Teams as Tech Leader with Agile Methodologies.
 
       - layout: left
         title: Errevi System Srl
@@ -77,7 +80,7 @@ content:
         quote: >
           <mark>C#</mark> <mark>.NET Framework</mark> <mark>.NET</mark> <mark>ASP</mark> <mark>Gitlab</mark> <mark>JS/TS</mark> <mark>AngularJS</mark> <mark>TDD</mark>
         description: | # this will include new lines to allow paragraphs
-          As Software Engineer i worked on maintenance of internal tools that we use to implements products of company. In the 2016 i started the refactory of tools from the old baseline based on ASP and migrate to a new infrastructure based on AngularJS for the client interface and some rest service and windows service for the backend. 
+          As a Software Engineer, I worked on maintaining internal tools we used to implement the company’s products.On 2016, I began the refactory of tools from the old baseline based on ASP and migrate to a new infrastructure based on AngularJS for the client interface and some rest service and windows service for the backend. 
 
       - layout: left
         title: Seven IT Srl
@@ -88,7 +91,7 @@ content:
         quote: >
           <mark>C#</mark> <mark>.NET Framework</mark> <mark>MsSql</mark> <mark>PHP</mark> <mark>MySql</mark> <mark>Joomla</mark>
         description: | # this will include new lines to allow paragraphs
-          As software developer i worked implement of Website and litte software application for rental car process.
+          As a Software Developer, I worked on developing Websites and little software application for rental cars processes.
 
       - layout: left
         title: Sinfo One SpA
@@ -99,7 +102,7 @@ content:
         quote: >
           <mark>Java</mark> <mark>C++</mark> <mark>Oracle</mark>
         description: | # this will include new lines to allow paragraphs
-          As Analyst i worked on with different client. My focus was on implementation, refactoring and integration of manufacturing process with the Oracle's ERP platform E1.
+          As an Analyst, I worked on various projects for different customers. My focus was the implementation, refactoring and integration of manufacturing process with the Oracle's ERP platform E1.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -109,7 +112,8 @@ content:
         caption: 1999 - 2004
         sub_title: Diploma on economics and software develop
         description: | # this will include new lines to allow paragraphs
-          I archievied the Diploma on economics and software with the result of 100/100. The focus of study is on Java Development. 
+          I achieved my High School Graduation Degree (Diploma Maturità) with the result of 100/100 on Economics and Information Technology (Software). 
+          Main topic: Java Development. 
 
   - title: A Little More About Me
     layout: list # Type of content section (list/text)
@@ -119,20 +123,20 @@ content:
         caption: 1999 - Present
         sub_title: Bad Player and Awesome Bad Coach of senior team
         description: | # this will include new lines to allow paragraphs
-          I started to play Basketball when i was 14. I'm not a skilled player but i continue to play with my friend in amateur category. We have create own team and in the last three year i play as Head Coach.
+          I've been playing basketball since I was 14. I'm not a skilled player but I keep playing with my friends on amateur category. We have built our own team and I’ve been the Head Coach for the last three years, now.
       
       - layout: left
         title: Role Playing 
         sub_title: Lazy DM and angry barbarian gnome
         description: | # this will include new lines to allow paragraphs
           I'm a boardgame and role's player addicted. I don't remember when i start to play but i don't stop it. 
-          From 2002 to 2009 i work on play-by-chat role game base on Marvel Superhero comics. In this game multiple players can play in different multiple location in the same moment to generate a story that evolving with their action on game.  
+          From 2002 to 2009 i work on play-by-chat role game base on Marvel Superhero comics. In this game multiple players can play in different multiple locations at the same moment to generate a story that evolves following their action on game. 
 
       - layout: left
         title: Volunteering
         sub_title: Healthcare 
         description: | # this will include new lines to allow paragraphs
-          I work as a Ambassador for multiple italian non-profit organisation(AVIS, AIDO, ADMO). My focus is on blood and organ donation projects where i explain our problem on italian Healthcare system. 
+          I work as a Ambassador for multiple italian non-profit organisation(AVIS, AIDO, ADMO). My focus is on blood and organ donation projects where I play as a facilitator to explain Italian Healthcare Systems issues.
 
 # Footer
 footer_show_references: false
